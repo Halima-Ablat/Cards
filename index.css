@@ -1,0 +1,25 @@
+.profile-container {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  display: inline-block;
+  margin: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
